@@ -1,8 +1,9 @@
-| lego number | color  | kind           | name    |
-|-------------+--------+----------------+---------|
-|       76101 | blue   | infinity stone | space   |
-|       76102 | purple | infinity stone | power   |
-|       76103 | yellow | infinity stone | mind    |
-|       76104 | orange | infinity stone | soul    |
-|       76107 | red    | infinity stone | reality |
-|       76108 | green  | infinity stone | time    |
+* infinity gems
+  | lego number | color  | kind           | name    |
+  |-------------+--------+----------------+---------|
+  |       76101 | blue   | infinity stone | space   |
+  |       76102 | purple | infinity stone | power   |
+  |       76103 | yellow | infinity stone | mind    |
+  |       76104 | orange | infinity stone | soul    |
+  |       76107 | red    | infinity stone | reality |
+  |       76108 | green  | infinity stone | time    |
