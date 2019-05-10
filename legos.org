@@ -1,4 +1,4 @@
-* infinity gems
+* infinity stones
   | lego number | color  | kind           | name    |
   |-------------+--------+----------------+---------|
   |       76101 | blue   | infinity stone | space   |
