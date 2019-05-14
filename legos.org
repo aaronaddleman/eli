@@ -7,3 +7,4 @@
   |       76104 | orange | infinity stone | soul    |
   |       76107 | red    | infinity stone | reality |
   |       76108 | green  | infinity stone | time    |
+* infinity gem
